@@ -49,6 +49,11 @@ Antarmuka aplikasi dirancang agar mudah digunakan dan menarik. Semua elemen diat
 - Tampilan yang bersih dan mudah dinavigasi.
 - Pengguna bisa dengan mudah menemukan dan menjelajahi destinasi wisata tanpa kebingungan.
 
+### 7. **Tools yang digunakan**
+- **Flutter**: Framework untuk membangun aplikasi mobile (Android dan iOS) menggunakan satu kode.
+- **Dart**: Bahasa pemrograman yang digunakan untuk menulis aplikasi ini.
+- **Visual Studio Code**: Editor kode yang digunakan untuk mengembangkan aplikasi.
+- **Git & GitHub**: Untuk version control dan kolaborasi dalam pengembangan proyek.
 ---
 
 ![home-page](https://github.com/user-attachments/assets/2f695136-00a3-46f3-9197-cf454f53088d)
